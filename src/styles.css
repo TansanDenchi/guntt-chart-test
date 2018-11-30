@@ -1,1 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+.ui-widget-header {
+  background: #9bdab3 !important;
+}
+.ui-slider-horizontal {
+  height: 2rem !important;
+}
+.ui-slider .ui-slider-handle {
+  height: 2.5em !important;
+}
